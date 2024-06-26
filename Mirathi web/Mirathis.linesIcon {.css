@@ -1,0 +1,3370 @@
+.linesIcon {
+  	position: absolute;
+  	top: -67px;
+  	left: -198px;
+  	width: 1998px;
+  	height: 1419.1px;
+}
+.blur6Icon {
+  	position: absolute;
+  	top: 181px;
+  	left: calc(50% - 527px);
+  	width: 1054px;
+  	height: 1054px;
+  	opacity: 0.4;
+}
+.gradient {
+  	position: absolute;
+  	top: calc(50% - 527px);
+  	left: calc(50% - 527px);
+  	background: radial-gradient(50% 50% at 50% 50%, rgba(31, 143, 255, 0.5), rgba(31, 143, 255, 0));
+  	width: 1054px;
+  	height: 1054px;
+  	display: none;
+}
+.primary {
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.chevronRightIcon {
+  	width: 16px;
+  	position: relative;
+  	height: 16px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.buttonPrimary {
+  	box-shadow: 0px 1px 3px rgba(199, 220, 255, 0.35) inset, 0px 0px 20px rgba(198, 204, 255, 0.2) inset, 0px 1px 22px rgba(255, 255, 255, 0.1), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 8px;
+  	background-color: rgba(255, 255, 255, 0.02);
+  	border: 1px solid rgba(255, 255, 255, 0.07);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 6px 16px;
+  	gap: 8px;
+  	text-align: left;
+}
+.craftStunningUser {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 60px;
+  	letter-spacing: -0.05em;
+  	font-weight: 500;
+  	background: linear-gradient(90.27deg, #fff, rgba(255, 255, 255, 0));
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.thisUiKit {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	line-height: 24px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.glassButton {
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1), 0px 10px 40px rgba(255, 255, 255, 0.15), 0px 8px 10px rgba(246, 249, 255, 0.2) inset;
+  	backdrop-filter: blur(20px);
+  	border-radius: 10px;
+  	background: linear-gradient(180deg, rgba(61, 66, 68, 0), rgba(158, 170, 176, 0.62));
+  	border: 1px solid rgba(255, 255, 255, 0.2);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 12px 30px;
+  	gap: 12px;
+  	font-size: 14px;
+}
+.textBlockLarge {
+  	position: absolute;
+  	top: 140px;
+  	left: calc(50% - 255px);
+  	width: 510px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 20px;
+  	min-width: 400px;
+  	max-width: 700px;
+  	text-align: center;
+}
+.contrast {
+  	position: absolute;
+  	top: 534px;
+  	left: calc(50% - 487px);
+  	border-radius: 22.5px;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6));
+  	width: 975px;
+  	height: 627px;
+  	overflow: hidden;
+  	mix-blend-mode: normal;
+}
+.logoDesigncodeIcon {
+  	width: 33px;
+  	position: relative;
+  	border-radius: 22.5px;
+  	height: 33px;
+}
+.company {
+  	width: 76.5px;
+  	position: relative;
+  	letter-spacing: -0.05em;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.logoFooter {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 3px;
+}
+.menuNineCircles {
+  	width: 12px;
+  	position: relative;
+  	height: 12px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.account {
+  	flex: 1;
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: -webkit-inline-box;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	-webkit-line-clamp: 2;
+  	-webkit-box-orient: vertical;
+}
+.buttonMenu {
+  	align-self: stretch;
+  	background: linear-gradient(90deg, rgba(38, 112, 233, 0.3), rgba(38, 112, 233, 0));
+  	border-left: 0.8px solid #2670e9;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 7.5px 15px;
+  	gap: 9px;
+}
+.handPointFinger {
+  	width: 12px;
+  	position: relative;
+  	height: 12px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 0;
+}
+.account1 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: -webkit-inline-box;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	-webkit-line-clamp: 2;
+  	-webkit-box-orient: vertical;
+  	z-index: 1;
+}
+.glow {
+  	width: 2.3px;
+  	position: absolute;
+  	margin: 0 !important;
+  	height: 100%;
+  	top: 0px;
+  	bottom: 0px;
+  	left: 0px;
+  	filter: blur(7.5px);
+  	z-index: 2;
+}
+.buttonMenu1 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 7.5px 15px;
+  	position: relative;
+  	gap: 9px;
+}
+.sideMenu {
+  	width: 100%;
+  	border-radius: 7.5px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 9px;
+  	min-width: 120px;
+  	max-width: 240px;
+  	font-size: 14px;
+}
+.logoFooterParent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 30px;
+}
+.line {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 7.5px;
+  	background-color: rgba(255, 255, 255, 0.1);
+}
+.divider {
+  	align-self: stretch;
+  	position: relative;
+  	height: 0.8px;
+}
+.sidebar {
+  	align-self: stretch;
+  	width: 202.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border-right: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 15px;
+}
+.search1 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 24px;
+  	font-weight: 500;
+}
+.magnifyingGlassIcon {
+  	width: 18px;
+  	position: relative;
+  	height: 18px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.search {
+  	width: 300.8px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 7.5px 15px;
+  	gap: 9px;
+}
+.avatarProgressIcon {
+  	width: 37.5px;
+  	position: relative;
+  	height: 37.5px;
+}
+.searchParent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+}
+.buttonToggle {
+  	flex: 1;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 3px 9px;
+}
+.buttonToggle1 {
+  	flex: 1;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 3px 9px;
+}
+.segmentedControl {
+  	width: 210px;
+  	border-radius: 74.25px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 3px;
+  	gap: 3px;
+}
+.buttonToggle3 {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 12px;
+  	gap: 9px;
+}
+.buttonToggleParent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 15px;
+  	font-size: 14px;
+}
+.segmentedControlParent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+  	font-size: 13px;
+}
+.ca950 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.roundtripPerPassenger {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.logoColorIcon {
+  	width: 18px;
+  	position: relative;
+  	height: 18px;
+}
+.airCanada {
+  	flex: 1;
+  	position: relative;
+  	line-height: 20px;
+}
+.logoAirline {
+  	align-self: stretch;
+  	border-radius: 15px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 6px;
+  	font-size: 13px;
+}
+.col {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 7.5px;
+  	z-index: 2;
+}
+.separator {
+  	align-self: stretch;
+  	width: 0.8px;
+  	position: relative;
+  	border-right: 0.8px dashed rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	z-index: 1;
+}
+.pm450 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+  	color: #fff;
+}
+.montrealYul {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+}
+.nonstop {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 13px;
+  	line-height: 20px;
+}
+.col1 {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 7.5px;
+  	z-index: 0;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.ticketCard {
+  	align-self: stretch;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 105px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+  	min-width: 240px;
+}
+.buttonLogoIcon {
+  	width: 33px;
+  	position: relative;
+  	height: 33px;
+}
+.reminders {
+  	width: 101.3px;
+  	position: relative;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.todayUpdateIcons {
+  	width: 101.3px;
+  	position: relative;
+  	font-size: 12px;
+  	line-height: 18px;
+  	font-weight: 500;
+  	color: rgba(255, 255, 255, 0.7);
+  	display: -webkit-inline-box;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	-webkit-line-clamp: 4;
+  	-webkit-box-orient: vertical;
+}
+.value {
+  	width: 7.5px;
+  	position: relative;
+  	border-radius: 3px;
+  	background-color: #fff;
+  	height: 2.3px;
+}
+.progress {
+  	align-self: stretch;
+  	border-radius: 6px;
+  	background-color: rgba(0, 0, 0, 0.1);
+  	height: 3.8px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0.8px;
+  	box-sizing: border-box;
+}
+.description {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+}
+.numberChild {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 50%;
+  	background-color: rgba(0, 0, 0, 0.6);
+}
+.div {
+  	position: absolute;
+  	width: 80%;
+  	top: -1.67%;
+  	left: 10%;
+  	line-height: 18px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.number {
+  	width: 15px;
+  	position: relative;
+  	height: 15px;
+}
+.updateIcons {
+  	width: 92.3px;
+  	position: relative;
+  	font-size: 13px;
+  	letter-spacing: -0.08px;
+  	line-height: 18px;
+  	font-weight: 500;
+  	font-family: 'SF Pro Text';
+  	color: rgba(255, 255, 255, 0.7);
+  	text-align: left;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.row {
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 6px;
+}
+.list {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+  	text-align: center;
+  	font-size: 12px;
+}
+.listCard {
+  	align-self: stretch;
+  	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.05), 0px 15px 30px rgba(0, 0, 0, 0.15), 0px 20px 40px rgba(0, 0, 0, 0.25);
+  	backdrop-filter: blur(20px);
+  	border-radius: 6px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+  	min-width: 240px;
+  	font-size: 16px;
+}
+.buttonIcon {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 3px;
+}
+.separator1 {
+  	align-self: stretch;
+  	position: relative;
+  	background-color: rgba(255, 255, 255, 0.1);
+  	height: 0.8px;
+}
+.upvoteVertical {
+  	border-radius: 22.5px;
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+}
+.stats {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+}
+.shouldITake {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	mix-blend-mode: normal;
+}
+.imConfusedAs {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	opacity: 0.8;
+  	mix-blend-mode: normal;
+}
+.line3 {
+  	align-self: stretch;
+  	position: relative;
+  	background-color: rgba(255, 255, 255, 0.1);
+  	height: 0.4px;
+}
+.avatarIcon {
+  	width: 24px;
+  	position: relative;
+  	height: 24px;
+  	object-fit: cover;
+}
+.pierreSmith {
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+  	mix-blend-mode: normal;
+}
+.newToIos {
+  	position: relative;
+  	font-size: 12px;
+  	line-height: 18px;
+  	font-weight: 500;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.text {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 3px;
+}
+.person {
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 7.5px;
+}
+.comment {
+  	flex: 1;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+  	font-size: 14px;
+  	color: #fff;
+}
+.commentCard {
+  	align-self: stretch;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 6px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+  	min-width: 210px;
+  	font-size: 12px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.ticketCardParent {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 17.3px;
+}
+.image3Icon {
+  	align-self: stretch;
+  	position: relative;
+  	border-radius: 7.5px;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 129px;
+  	flex-shrink: 0;
+  	object-fit: cover;
+}
+.uiuxDesign {
+  	position: relative;
+  	line-height: 18px;
+  	font-weight: 500;
+}
+.button {
+  	border-radius: 7.5px;
+  	background-color: #3395ff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 7.5px;
+}
+.designingATravel {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	line-height: 24px;
+  	font-weight: 500;
+}
+.embarkOnA {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	color: rgba(255, 255, 255, 0.7);
+  	display: -webkit-inline-box;
+  	align-items: center;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	-webkit-line-clamp: 2;
+  	-webkit-box-orient: vertical;
+}
+.progressIcon {
+  	align-self: stretch;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 0px;
+  	flex-shrink: 0;
+}
+.rileyAnderson {
+  	flex: 1;
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+}
+.info {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.uiuxDesigner {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 13px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.userDetails {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.avatar {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 7.5px;
+}
+.content1 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+  	font-size: 14px;
+}
+.recentCourse1 {
+  	flex: 1;
+  	border-radius: 15px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.continueWatchingCard {
+  	align-self: stretch;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 15px;
+}
+.monthlyCompletion {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 27px;
+  	font-weight: 500;
+  	white-space: pre-wrap;
+}
+.progressBar {
+  	width: 0.2px;
+  	position: relative;
+  	height: 158.2px;
+}
+.progressBarParent {
+  	width: 15px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 15px;
+}
+.progressBar1 {
+  	width: 0.2px;
+  	position: relative;
+  	height: 111.3px;
+}
+.progressBar2 {
+  	width: 0.2px;
+  	position: relative;
+  	height: 172.5px;
+}
+.progressBar3 {
+  	width: 0px;
+  	position: relative;
+  	height: 116.3px;
+}
+.progressBar4 {
+  	width: 0.3px;
+  	position: relative;
+  	height: 147.8px;
+}
+.frameGroup {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-end;
+  	justify-content: space-between;
+  	font-size: 12px;
+}
+.monthlyCard {
+  	align-self: stretch;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 284.3px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 21px;
+  	min-width: 150px;
+  	font-size: 18px;
+}
+.continueWatchingCardParent {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 22.5px;
+  	font-size: 12px;
+}
+.buttonCircle {
+  	width: 21px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 24px;
+  	height: 21px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4.5px;
+  	box-sizing: border-box;
+}
+.buttonCircle1 {
+  	width: 21px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 24px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 21px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4.5px;
+}
+.toggle {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0.8px;
+  	gap: 6px;
+  	z-index: 0;
+}
+.mobileWeb {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	font-weight: 500;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.line4 {
+  	align-self: stretch;
+  	position: relative;
+  	border-radius: 7.5px;
+  	background-color: rgba(255, 255, 255, 0.1);
+  	height: 0.8px;
+}
+.m {
+  	width: 6px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: calc(50% - 7.5px);
+  	left: calc(50% - 3px);
+  	line-height: 20px;
+  	font-weight: 500;
+  	display: inline-block;
+  	z-index: 0;
+}
+.avatarSmall {
+  	width: 18px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 16.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 18px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	position: relative;
+}
+.jihoLimCreator {
+  	flex: 1;
+  	position: relative;
+  	font-size: 14px;
+  	line-height: 20px;
+  	font-weight: 500;
+  	color: rgba(255, 255, 255, 0.7);
+  	text-align: left;
+}
+.author {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 6px;
+  	text-align: center;
+  	font-size: 13px;
+}
+.content2 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 6px;
+  	z-index: 1;
+}
+.logoIcon {
+  	width: 33px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: calc(50% - 105px);
+  	left: calc(50% + 56.4px);
+  	height: 33px;
+  	z-index: 2;
+}
+.testimonial {
+  	align-self: stretch;
+  	box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(20px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 22.5px;
+  	position: relative;
+  	gap: 15px;
+  	min-width: 210px;
+}
+.avatarIcon2 {
+  	width: 18px;
+  	position: relative;
+  	height: 18px;
+  	object-fit: cover;
+}
+.title {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 6px;
+  	font-size: 14px;
+}
+.line6 {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 7.5px;
+  	background: radial-gradient(50% 50% at 50% 50%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+}
+.name {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 0px 37.5px 0px 0px;
+  	z-index: 0;
+  	color: #fff;
+}
+.preparedAReport {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 20px;
+  	z-index: 1;
+}
+.mAgo {
+  	width: 32px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	right: 0.45px;
+  	font-size: 12px;
+  	line-height: 18px;
+  	text-align: right;
+  	display: inline-block;
+  	z-index: 2;
+}
+.text1 {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	position: relative;
+}
+.activity {
+  	align-self: stretch;
+  	border-radius: 6px;
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 6px;
+  	gap: 6px;
+}
+.activity1 {
+  	align-self: stretch;
+  	border-radius: 6px;
+  	background-color: rgba(0, 0, 0, 0.1);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 6px;
+  	gap: 6px;
+}
+.mAgo2 {
+  	width: 36px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	right: 0.2px;
+  	font-size: 12px;
+  	line-height: 18px;
+  	text-align: right;
+  	display: inline-block;
+  	z-index: 2;
+}
+.mAgo3 {
+  	width: 29px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	right: 0.7px;
+  	font-size: 12px;
+  	line-height: 18px;
+  	text-align: right;
+  	display: inline-block;
+  	z-index: 2;
+}
+.activity3 {
+  	align-self: stretch;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 6px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 6px;
+  	gap: 6px;
+}
+.buttonPrimary1 {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 6px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 3px 9px;
+  	color: #fff;
+}
+.notification {
+  	width: 100%;
+  	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.1), 0px 20px 40px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(20px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 15px;
+  	gap: 6px;
+  	min-width: 195px;
+  	max-width: 300px;
+  	font-size: 13px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.testimonialParent {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 22.5px;
+}
+.frameParent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 20px;
+  	font-size: 14px;
+}
+.content {
+  	width: 757.5px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 15px 15px 0px 0px;
+  	box-sizing: border-box;
+  	gap: 15px;
+  	background-image: url('Content.png');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: top;
+  	font-size: 16px;
+}
+.browseApp {
+  	position: absolute;
+  	top: 534px;
+  	left: calc(50% - 487px);
+  	box-shadow: 0px 50px 100px rgba(255, 255, 255, 0.15) inset, 0px 5px 10px rgba(0, 0, 0, 0.05), 0px 15px 30px rgba(0, 0, 0, 0.05), 0px 30px 60px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 22.5px;
+  	background-color: rgba(5, 5, 5, 0.9);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	width: 975px;
+  	height: 627px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 15px;
+  	mix-blend-mode: screen;
+  	font-size: 13.5px;
+}
+.ticketCard1 {
+  	position: absolute;
+  	top: 12px;
+  	left: calc(50% - 75.29px);
+  	backdrop-filter: blur(18.82px);
+  	border-radius: 9.41px;
+  	background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0)), linear-gradient(180deg, rgba(46, 51, 90, 0.1), rgba(28, 27, 51, 0.02));
+  	border: 0.5px solid rgba(255, 255, 255, 0.2);
+  	box-sizing: border-box;
+  	width: 150.6px;
+  	height: 66px;
+  	overflow: hidden;
+  	min-width: 150.59px;
+}
+.ca9501 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 10px;
+  	font-weight: 500;
+}
+.roundtripPerPassenger1 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 10px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.airCanada1 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 10px;
+}
+.logoAirline1 {
+  	align-self: stretch;
+  	border-radius: 10px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 8px;
+  	font-size: 6.5px;
+}
+.col2 {
+  	align-self: stretch;
+  	width: 75px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 10px;
+  	box-sizing: border-box;
+}
+.separator2 {
+  	align-self: stretch;
+  	width: 0.5px;
+  	position: relative;
+  	border-right: 0.5px dashed rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+}
+.pm4501 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 10px;
+  	font-weight: 500;
+  	color: #fff;
+}
+.montrealYul1 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 10px;
+}
+.nonstop1 {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 6.5px;
+  	line-height: 10px;
+}
+.col3 {
+  	align-self: stretch;
+  	width: 75px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 10px;
+  	box-sizing: border-box;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.ticketCard2 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 85px);
+  	backdrop-filter: blur(20px);
+  	border-radius: 10px;
+  	background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0)), linear-gradient(180deg, rgba(46, 51, 90, 0.1), rgba(28, 27, 51, 0.02));
+  	border: 0.5px solid rgba(255, 255, 255, 0.2);
+  	box-sizing: border-box;
+  	width: 170px;
+  	height: 70px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 5px;
+  	gap: 5px;
+  	min-width: 160px;
+}
+.cards {
+  	position: absolute;
+  	top: 11px;
+  	left: calc(50% - 85px);
+  	width: 170px;
+  	height: 78px;
+}
+.video {
+  	align-self: stretch;
+  	flex: 1;
+  	position: relative;
+  	border-radius: 20px;
+  	overflow: hidden;
+  	background-image: url('Video.png');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: top;
+}
+.title1 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 27px;
+  	font-weight: 500;
+  	background: linear-gradient(91.35deg, #fff, rgba(255, 255, 255, 0));
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	display: -webkit-inline-box;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	-webkit-line-clamp: 3;
+  	-webkit-box-orient: vertical;
+  	text-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
+}
+.exploreTheArt {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	line-height: 24px;
+}
+.arrowRight {
+  	width: 16px;
+  	position: relative;
+  	height: 16px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: none;
+}
+.buttonGhost {
+  	border-radius: 8px;
+  	border: 1px solid rgba(255, 255, 255, 0.6);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 8px 16px;
+  	gap: 12px;
+  	font-size: 13px;
+}
+.info1 {
+  	align-self: stretch;
+  	width: 300px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 20px;
+}
+.frame {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.content3 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 16px 0px;
+  	font-size: 18px;
+  	color: rgba(255, 255, 255, 0.6);
+}
+.mainCard {
+  	position: absolute;
+  	top: 820px;
+  	left: calc(50% - 170px);
+  	border-radius: 40px;
+  	width: 340px;
+  	height: 380px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 20px;
+  	box-sizing: border-box;
+  	gap: 10px;
+  	background-image: url('Main Card.png');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: top;
+  	font-size: 7px;
+}
+.scoreChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 0px 30px 60px rgba(255, 255, 255, 0.15) inset, 0px 2px 4px rgba(0, 0, 0, 0.05), 0px 5px 10px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(10px);
+  	border-radius: 50%;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.01) 69.27%, rgba(0, 0, 0, 0.2));
+  	border: 1px solid rgba(255, 255, 255, 0.07);
+  	box-sizing: border-box;
+  	width: 142px;
+  	height: 142px;
+}
+.circle8Icon {
+  	position: absolute;
+  	top: calc(50% - 53px);
+  	left: calc(50% - 52px);
+  	width: 105px;
+  	height: 106px;
+}
+.scoreItem {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: -0.03%;
+  	bottom: 0%;
+  	left: 0.03%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.div6 {
+  	position: absolute;
+  	top: 34px;
+  	left: 34px;
+  	letter-spacing: -0.05em;
+  	font-weight: 600;
+}
+.score {
+  	position: absolute;
+  	top: 647px;
+  	left: 1122px;
+  	width: 142px;
+  	height: 142px;
+  	font-size: 60px;
+}
+.lights {
+  	position: absolute;
+  	top: 534px;
+  	left: calc(50% - 409px);
+  	background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0));
+  	border-top: 1px solid rgba(255, 255, 255, 0.4);
+  	box-sizing: border-box;
+  	width: 819px;
+  	height: 138px;
+  	overflow: hidden;
+  	opacity: 0.8;
+}
+.stroke {
+  	position: absolute;
+  	top: calc(50% - 74px);
+  	left: calc(50% + 66px);
+  	border-radius: 50%;
+  	border: 8px dashed rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	width: 148px;
+  	height: 148px;
+  	transform:  rotate(180deg);
+  	transform-origin: 0 0;
+}
+.stroke1 {
+  	position: absolute;
+  	top: calc(50% - 74px);
+  	left: calc(50% + 66px);
+  	filter: drop-shadow(0px 1px 0px rgba(142, 155, 174, 0.5) inset);
+  	border-radius: 50%;
+  	border: 8px dashed #d782ff;
+  	box-sizing: border-box;
+  	width: 148px;
+  	height: 148px;
+  	transform:  rotate(180deg);
+  	transform-origin: 0 0;
+}
+.ellipse {
+  	position: absolute;
+  	top: 12px;
+  	left: 12px;
+  	box-shadow: 0px 30px 60px rgba(255, 255, 255, 0.15) inset, 0px 2px 4px rgba(0, 0, 0, 0.05), 0px 5px 10px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(10px);
+  	border-radius: 50%;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.01) 69.27%, rgba(0, 0, 0, 0.2));
+  	border: 1px solid rgba(255, 255, 255, 0.07);
+  	box-sizing: border-box;
+  	width: 126px;
+  	height: 126px;
+}
+.circle {
+  	position: absolute;
+  	top: calc(50% - 57px);
+  	left: calc(50% + 57px);
+  	box-shadow: 0px 30px 60px rgba(255, 255, 255, 0.15) inset, 0px 2px 4px rgba(0, 0, 0, 0.05), 0px 5px 10px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(10px);
+  	border-radius: 50%;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0.02), rgba(0, 0, 0, 0.01) 69.27%, rgba(0, 0, 0, 0.2));
+  	border: 1px solid rgba(255, 255, 255, 0.07);
+  	box-sizing: border-box;
+  	width: 114px;
+  	height: 114px;
+  	transform:  rotate(180deg);
+  	transform-origin: 0 0;
+}
+.circle1 {
+  	position: absolute;
+  	top: calc(50% - 61.5px);
+  	left: calc(50% + 60.5px);
+  	border-radius: 50%;
+  	background: linear-gradient(220.06deg, #fff, #285299 75%);
+  	border: 1px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	width: 123px;
+  	height: 123px;
+  	transform:  rotate(180deg);
+  	transform-origin: 0 0;
+}
+.circle2 {
+  	position: absolute;
+  	top: calc(50% - 45px);
+  	left: calc(50% + 45px);
+  	border-radius: 50%;
+  	border: 10px solid rgba(0, 0, 0, 0.1);
+  	box-sizing: border-box;
+  	width: 90px;
+  	height: 90px;
+  	transform:  rotate(180deg);
+  	transform-origin: 0 0;
+}
+.arrowIcon {
+  	position: absolute;
+  	top: calc(50% + 35.5px);
+  	left: calc(50% - 24.5px);
+  	border-radius: 5px;
+  	width: 47.6px;
+  	height: 47.6px;
+  	object-fit: contain;
+}
+.div7 {
+  	position: absolute;
+  	top: calc(50% - 18px);
+  	left: calc(50% - 31px);
+  	letter-spacing: -0.04em;
+  	font-weight: 600;
+}
+.progressRing {
+  	position: absolute;
+  	top: 1060px;
+  	left: 158px;
+  	width: 150px;
+  	height: 150px;
+  	text-align: center;
+  	font-size: 30px;
+}
+.hero {
+  	width: 1440px;
+  	position: relative;
+  	background-color: #000;
+  	height: 1440px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 0;
+  	font-size: 13px;
+}
+.earthIcon {
+  	position: absolute;
+  	top: calc(50% - 563px);
+  	left: calc(50% - 1024px);
+  	width: 2048px;
+  	height: 1107px;
+  	object-fit: cover;
+}
+.blur7Icon {
+  	position: absolute;
+  	top: calc(50% - 306px);
+  	left: calc(50% - 306px);
+  	width: 613px;
+  	height: 613px;
+  	opacity: 0.5;
+  	mix-blend-mode: screen;
+}
+.featuredInChild {
+  	position: absolute;
+  	top: calc(50% + 50.5px);
+  	left: calc(50% - 313.5px);
+  	border-radius: 10px;
+  	width: 175px;
+  	height: 151px;
+  	object-fit: cover;
+}
+.featuredInItem {
+  	position: absolute;
+  	top: calc(50% + 134.5px);
+  	left: calc(50% - 170.5px);
+  	width: 175px;
+  	height: 151px;
+}
+.featuredInInner {
+  	position: absolute;
+  	top: calc(50% - 28.5px);
+  	left: calc(50% - 169.5px);
+  	width: 175px;
+  	height: 151px;
+}
+.frameIcon {
+  	position: absolute;
+  	top: calc(50% + 53.5px);
+  	left: calc(50% - 25.5px);
+  	width: 175px;
+  	height: 151px;
+  	object-fit: contain;
+}
+.featuredInChild1 {
+  	position: absolute;
+  	top: calc(50% - 26.5px);
+  	left: calc(50% + 121.5px);
+  	width: 175px;
+  	height: 151px;
+  	object-fit: contain;
+}
+.featuredInChild2 {
+  	position: absolute;
+  	top: calc(50% - 112.5px);
+  	left: calc(50% - 22.5px);
+  	width: 175px;
+  	height: 151px;
+}
+.companyLogoIcon {
+  	position: absolute;
+  	top: calc(50% + 103.5px);
+  	left: calc(50% - 300.5px);
+  	width: 150px;
+  	height: 45px;
+  	object-fit: cover;
+}
+.companyLogoIcon1 {
+  	position: absolute;
+  	top: calc(50% - 59.5px);
+  	left: calc(50% - 298.5px);
+  	width: 150px;
+  	height: 45px;
+  	object-fit: cover;
+}
+.usedByTop {
+  	margin: 0;
+}
+.across {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+.usedByTopContainer {
+  	position: absolute;
+  	top: calc(50% - 285.5px);
+  	left: calc(50% - 546.5px);
+  	letter-spacing: -0.04em;
+  	background: linear-gradient(110.03deg, #fff, rgba(175, 175, 175, 0));
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	display: inline-block;
+  	width: 1093px;
+}
+.featuredIn {
+  	position: absolute;
+  	top: calc(50% - 412px);
+  	left: calc(50% - 538px);
+  	width: 1093px;
+  	height: 571px;
+}
+.teams {
+  	width: 1440px;
+  	position: relative;
+  	background-color: #000;
+  	height: 900px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 1;
+  	text-align: center;
+  	font-size: 60px;
+}
+.blurIcon {
+  	position: absolute;
+  	top: calc(50% - 300px);
+  	left: calc(50% - 300px);
+  	width: 600px;
+  	height: 600px;
+  	opacity: 0.4;
+}
+.company1 {
+  	position: relative;
+  	letter-spacing: -0.05em;
+}
+.logo {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 3px;
+  	gap: 3px;
+  	font-size: 13.5px;
+}
+.buttonToggle5 {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 16px;
+}
+.buttonToggle6 {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 16px;
+}
+.menu5 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 7.5px;
+}
+.buttonToggle10 {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 74.25px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 16px;
+  	gap: 8px;
+}
+.buttonCircle4 {
+  	width: 32px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 24px;
+  	height: 32px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4.5px;
+  	box-sizing: border-box;
+}
+.account10 {
+  	border-radius: 37.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 3px;
+}
+.buttons {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 7.5px;
+}
+.content4 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 22.5px 34.5px;
+}
+.header {
+  	align-self: stretch;
+  	height: 69.8px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: space-between;
+}
+.title2 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 30px;
+  	font-weight: 500;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+}
+.reset {
+  	position: relative;
+  	font-size: 16px;
+  	line-height: 24px;
+  	font-weight: 500;
+}
+.header1 {
+  	align-self: stretch;
+  	height: 49.5px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 15px 7.5px;
+  	box-sizing: border-box;
+  	font-size: 20px;
+}
+.title3 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 27px;
+  	font-weight: 500;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+}
+.sortBy {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 7.5px;
+}
+.filtersCardChild {
+  	align-self: stretch;
+  	position: relative;
+  	border-top: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 0.8px;
+}
+.title4 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 27px;
+  	font-weight: 500;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+}
+.accessoryChild {
+  	width: 12px;
+  	position: relative;
+  	height: 12px;
+}
+.accessory {
+  	width: 18px;
+  	height: 18px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+}
+.title5 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 24px;
+}
+.item1 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 7.5px 0px 7.5px 7.5px;
+  	gap: 7.5px;
+  	mix-blend-mode: normal;
+}
+.item2 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+  	mix-blend-mode: normal;
+}
+.accessoryInner {
+  	width: 12px;
+  	position: relative;
+  	border-radius: 50%;
+  	border: 0.8px solid rgba(255, 255, 255, 0.7);
+  	box-sizing: border-box;
+  	height: 12px;
+}
+.item1Parent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	font-size: 16px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.stops {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 7.5px;
+  	gap: 7.5px;
+}
+.title9 {
+  	width: 225px;
+  	position: relative;
+  	line-height: 27px;
+  	font-weight: 500;
+  	display: inline-block;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	height: 22.5px;
+  	flex-shrink: 0;
+}
+.content5 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	z-index: 0;
+}
+.progressBarChild {
+  	width: 129px;
+  	position: relative;
+  	border-radius: 2.25px;
+  	background: linear-gradient(180deg, #4c89ff, #3f7aec);
+  	height: 4.5px;
+}
+.progressBarItem {
+  	width: 13.5px;
+  	position: relative;
+  	box-shadow: 2.07692289352417px 2.07692289352417px 4.15px rgba(0, 0, 0, 0.2);
+  	border-radius: 15px;
+  	background: linear-gradient(137.49deg, #4c89ff, #376acd);
+  	border: 0.4px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 13.5px;
+  	margin-left: -9.7px;
+}
+.progressBar5 {
+  	align-self: stretch;
+  	border-radius: 15px;
+  	background-color: rgba(255, 255, 255, 0.2);
+  	border: 0.4px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 9px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 2.3px;
+  	z-index: 1;
+}
+.priceChild {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0px;
+  	left: 0px;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 25.5px;
+}
+.ca6000 {
+  	position: absolute;
+  	top: calc(50% - 7.75px);
+  	left: calc(50% - 22.15px);
+  	line-height: 18px;
+  	font-weight: 500;
+  	mix-blend-mode: normal;
+}
+.price1 {
+  	width: 62.3px;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 0px;
+  	left: 96.75px;
+  	height: 19.5px;
+  	z-index: 2;
+  	font-size: 12px;
+}
+.slider {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 7.5px 0px;
+  	position: relative;
+  	gap: 7.5px;
+  	font-size: 14px;
+}
+.price {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 7.5px;
+  	gap: 7.5px;
+}
+.title14 {
+  	width: 129.8px;
+  	position: relative;
+  	line-height: 24px;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.add {
+  	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px 5px 10px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(20px);
+  	border-radius: 37.5px;
+  	background-color: #3395ff;
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+}
+.minusWrapper {
+  	box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1), 0px 5px 10px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(20px);
+  	border-radius: 22.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+}
+.stepper {
+  	border-radius: 15px;
+  	background-color: rgba(255, 255, 255, 0.2);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 1.5px;
+  	gap: 7.5px;
+  	color: #fff;
+}
+.item8 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+  	padding: 7.5px 0px 7.5px 7.5px;
+  	mix-blend-mode: normal;
+}
+.knobIcon1 {
+  	width: 18px;
+  	position: relative;
+  	height: 18px;
+  	opacity: 0;
+}
+.switch {
+  	border-radius: 15px;
+  	background-color: rgba(255, 255, 255, 0.2);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 1.5px;
+  	gap: 7.5px;
+}
+.item9 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 7.5px;
+  	mix-blend-mode: normal;
+  	font-size: 16px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.filtersCard {
+  	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.1), 0px 20px 40px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(20px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 647.3px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 15px;
+  	mix-blend-mode: normal;
+}
+.roundtrip {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 5.3px;
+}
+.roundtripParent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 14.3px;
+}
+.icon {
+  	align-self: stretch;
+  	width: 36px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 7.5px;
+  	box-sizing: border-box;
+}
+.montrealCanada {
+  	position: relative;
+  	font-size: 12px;
+  	line-height: 18px;
+  	color: #fff;
+  	mix-blend-mode: normal;
+}
+.from {
+  	flex: 1;
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.6px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 8px;
+  	gap: 8px;
+  	mix-blend-mode: normal;
+  	z-index: 0;
+}
+.icon1 {
+  	align-self: stretch;
+  	width: 33px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 7.5px;
+  	box-sizing: border-box;
+}
+.to {
+  	flex: 1;
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.6px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 8px;
+  	gap: 3px;
+  	mix-blend-mode: normal;
+  	z-index: 1;
+}
+.buttonCircle5 {
+  	width: 36px;
+  	margin: 0 !important;
+  	position: absolute;
+  	top: 10.5px;
+  	left: calc(50% - 18px);
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 24px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 36px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 4.5px;
+  	z-index: 2;
+}
+.fromParent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	position: relative;
+  	gap: 12px;
+}
+.depart {
+  	position: relative;
+  	line-height: 13.5px;
+  	font-weight: 500;
+  	mix-blend-mode: normal;
+}
+.departDate {
+  	flex: 1;
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.6px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 6px;
+  	gap: 3px;
+  	mix-blend-mode: normal;
+  	min-width: 140px;
+}
+.travellers {
+  	flex: 1;
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.6px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 6px;
+  	gap: 3px;
+  	mix-blend-mode: normal;
+  	min-width: 140px;
+}
+.flightsField {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	flex-wrap: wrap;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 12px;
+}
+.blueButton {
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 8px;
+  	background-color: #3395ff;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 16px;
+  	text-align: left;
+  	font-size: 13px;
+  	color: #fff;
+}
+.frameContainer {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 15px;
+  	text-align: center;
+  	font-size: 9px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.searchFlight {
+  	width: 340.5px;
+  	box-shadow: 0px 3.75px 7.5px rgba(0, 0, 0, 0.1), 0px 11.25px 22.5px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(15px);
+  	border-radius: 7.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 292.5px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 15px;
+  	gap: 15px;
+}
+.departureFlights {
+  	position: relative;
+  	font-size: 13.5px;
+  	line-height: 20.25px;
+  	font-weight: 500;
+}
+.am {
+  	position: relative;
+  	line-height: 24px;
+  	font-weight: 500;
+}
+.airplaneIcon {
+  	width: 18px;
+  	position: relative;
+  	height: 18px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	object-fit: contain;
+}
+.duration {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 3px;
+  	font-size: 13px;
+}
+.tokyoNrt {
+  	position: relative;
+  	font-size: 14px;
+  	line-height: 20px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.destination {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-end;
+  	justify-content: flex-start;
+  	gap: 3px;
+}
+.departureParent {
+  	align-self: stretch;
+  	flex: 1;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+}
+.flightCardChild {
+  	align-self: stretch;
+  	position: relative;
+  	border-top: 0.8px dashed rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 0.8px;
+}
+.vectorIcon1 {
+  	width: 67.5px;
+  	position: relative;
+  	height: 6px;
+}
+.vectorParent {
+  	height: 18px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 7.5px;
+}
+.flightCard {
+  	align-self: stretch;
+  	flex: 1;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.03), 0px 2px 2px rgba(0, 0, 0, 0.03), 0px 5px 5px rgba(0, 0, 0, 0.05);
+  	backdrop-filter: blur(20px);
+  	border-radius: 10px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 15px;
+  	gap: 15px;
+}
+.flights {
+  	align-self: stretch;
+  	width: 310.5px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.flightsWrapper {
+  	width: 310.5px;
+  	height: 137.3px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.flightList {
+  	box-shadow: 0px 3.75px 7.5px rgba(0, 0, 0, 0.1), 0px 11.25px 22.5px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(15px);
+  	border-radius: 10px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 339.8px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 20px;
+  	gap: 10px;
+  	font-size: 16px;
+}
+.col4 {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 15px;
+  	font-size: 12px;
+}
+.monthYear {
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.monthPicker {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+  	text-align: left;
+}
+.datepickerDayrow {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	font-size: 13px;
+  	color: rgba(255, 255, 255, 0.5);
+}
+.date {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	opacity: 0.3;
+}
+.digit {
+  	align-self: stretch;
+  	flex: 1;
+  	position: relative;
+}
+.digit1 {
+  	flex: 1;
+  	position: relative;
+  	height: 30px;
+}
+.date2 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.25px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	opacity: 0.3;
+}
+.date3 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.37px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	opacity: 0.3;
+}
+.date4 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: -0.25px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	opacity: 0.3;
+}
+.date5 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 12px);
+  	left: 0.63px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 24px;
+  	opacity: 0.3;
+}
+.date6 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.digit6 {
+  	flex: 1;
+  	position: relative;
+  	height: 30px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.dayrow {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	color: rgba(255, 255, 255, 0.5);
+}
+.date7 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.12px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.date9 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.25px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.date10 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.37px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.date11 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: -0.25px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.date12 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 12px);
+  	left: 0.63px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 24px;
+}
+.dayrow1 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.date14 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.12px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	opacity: 0.9;
+}
+.dayrow3 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+}
+.digitChild {
+  	position: absolute;
+  	top: calc(50% - 16.5px);
+  	left: calc(50% - 16.84px);
+  	border-radius: 7.5px;
+  	width: 33px;
+  	height: 33px;
+}
+.date29 {
+  	position: absolute;
+  	width: calc(100% - 0.1px);
+  	top: calc(50% - 9px);
+  	left: 0.38px;
+  	line-height: 24px;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.digitItem {
+  	position: absolute;
+  	top: calc(50% - 16.5px);
+  	left: calc(50% - 16.74px);
+  	border-radius: 7.5px;
+  	width: 33px;
+  	height: 33px;
+}
+.digitInner {
+  	position: absolute;
+  	top: calc(50% - 16.5px);
+  	left: calc(50% - 16.63px);
+  	border-radius: 7.5px;
+  	width: 33px;
+  	height: 33px;
+}
+.datePicker {
+  	width: 285.8px;
+  	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1), 0px 15px 30px rgba(0, 0, 0, 0.1), 0px 20px 40px rgba(0, 0, 0, 0.15);
+  	backdrop-filter: blur(20px);
+  	border-radius: 10px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 12px;
+  	gap: 7.5px;
+  	min-width: 210px;
+}
+.flightPriceStatistics {
+  	position: relative;
+  	line-height: 20.25px;
+  	font-weight: 500;
+}
+.chartIcon {
+  	width: 36px;
+  	position: relative;
+  	height: 108px;
+  	opacity: 0.2;
+}
+.nov1 {
+  	position: relative;
+  	line-height: 13.5px;
+  	font-weight: 500;
+}
+.chartParent {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 9px;
+}
+.chartIcon1 {
+  	width: 36px;
+  	position: relative;
+  	height: 81.8px;
+}
+.chartGroup {
+  	width: 36px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 9px;
+}
+.chartIcon2 {
+  	width: 36px;
+  	position: relative;
+  	height: 54px;
+  	opacity: 0.2;
+}
+.chartIcon3 {
+  	width: 36px;
+  	position: relative;
+  	height: 108.8px;
+}
+.bars {
+  	position: absolute;
+  	top: 75px;
+  	left: 45px;
+  	width: 225px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-end;
+  	justify-content: space-between;
+}
+.lines1 {
+  	align-self: stretch;
+  	position: relative;
+  	border-top: 0.8px dashed rgba(12, 8, 26, 0.04);
+  	box-sizing: border-box;
+  	height: 0.8px;
+}
+.lines {
+  	position: absolute;
+  	width: calc(100% - 30px);
+  	right: 15px;
+  	bottom: 37.26px;
+  	left: 15px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 27px;
+}
+.number5 {
+  	position: absolute;
+  	bottom: 37.26px;
+  	left: 15px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 40.5px;
+  	color: #fff;
+}
+.day7 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 3px 9px;
+}
+.separator4 {
+  	width: 0.8px;
+  	position: relative;
+  	border-right: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 15.8px;
+}
+.week {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 3px 9px;
+  	color: #3395ff;
+}
+.monthSegmentControl {
+  	position: absolute;
+  	top: 15px;
+  	left: 57.5px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 22.5px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 16px;
+  	gap: 8px;
+  	text-align: center;
+  	font-size: 12px;
+}
+.chartBarCard {
+  	width: 285px;
+  	position: relative;
+  	box-shadow: 0px 0.75px 0px rgba(0, 0, 0, 0.05), 0px 3px 3px rgba(0, 0, 0, 0.05), 0px 7.5px 7.5px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(15px);
+  	border-radius: 15px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 221.8px;
+  	font-size: 9px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.buttonListIcon {
+  	width: 34.5px;
+  	position: relative;
+  	border-radius: 74.25px;
+  	height: 34.5px;
+}
+.textChild {
+  	width: 4.5px;
+  	position: relative;
+  	border-radius: 50%;
+  	background-color: #3395ff;
+  	height: 4.5px;
+}
+.dontMissOut {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 14px;
+  	line-height: 20px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.content6 {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 3px;
+}
+.mailList {
+  	width: 285.8px;
+  	border-radius: 15px;
+  	background: linear-gradient(90.23deg, rgba(17, 16, 24, 0), rgba(17, 16, 24, 0.51));
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 75.8px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 15px 12px;
+  	gap: 18px;
+  	min-width: 255px;
+  	font-size: 16px;
+}
+.flight {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 10.5px;
+  	text-align: left;
+  	font-size: 13.5px;
+}
+.col5 {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 15px;
+  	text-align: center;
+  	font-size: 16px;
+}
+.row5 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 22.5px;
+  	font-size: 18px;
+}
+.ui {
+  	position: absolute;
+  	top: calc(50% - 381px);
+  	left: 0px;
+  	box-shadow: 0px 37.5px 75px rgba(255, 255, 255, 0.15) inset, 0px 3.75px 7.5px rgba(0, 0, 0, 0.05), 0px 11.25px 22.5px rgba(0, 0, 0, 0.05), 0px 22.5px 45px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(15px);
+  	border-radius: 15px;
+  	background-color: rgba(5, 5, 5, 0.9);
+  	border: 0.8px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	width: 990px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.mask {
+  	position: absolute;
+  	bottom: 0px;
+  	left: 0px;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0), #000);
+  	width: 990px;
+  	height: 268px;
+}
+.score1 {
+  	position: absolute;
+  	top: 328px;
+  	left: -74px;
+  	width: 142px;
+  	height: 142px;
+  	font-size: 60px;
+}
+.flightUi {
+  	position: absolute;
+  	top: 130px;
+  	left: 750px;
+  	width: 990px;
+  	height: 762px;
+  	mix-blend-mode: screen;
+}
+.captivatingWebsitesWith {
+  	color: rgba(255, 255, 255, 0.5);
+}
+.craftCaptivatingWebsitesContainer {
+  	width: 582px;
+  	position: relative;
+  	letter-spacing: -0.05em;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.text6 {
+  	align-self: stretch;
+  	position: relative;
+  	line-height: 27px;
+  	font-weight: 500;
+}
+.content8 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 8px;
+}
+.content9 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 8px;
+  	opacity: 0.3;
+}
+.blueGlowButton {
+  	box-shadow: 0px 10px 40px rgba(63, 74, 175, 0.5), 0px 10px 30px rgba(73, 123, 255, 0.7) inset;
+  	backdrop-filter: blur(20px);
+  	border-radius: 10px;
+  	background: linear-gradient(180deg, rgba(0, 0, 0, 0), #402788);
+  	border: 1px solid rgba(255, 255, 255, 0.2);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 12px 30px;
+  	gap: 12px;
+  	text-align: center;
+  	font-size: 14px;
+}
+.features {
+  	width: 580px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 40px;
+  	font-size: 18px;
+}
+.content7 {
+  	position: absolute;
+  	top: 130px;
+  	left: 70px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 60px;
+  	font-size: 60px;
+}
+.steps {
+  	width: 1440px;
+  	position: relative;
+  	background-color: #000;
+  	height: 1024px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 2;
+  	font-size: 14px;
+}
+.autumnIcon {
+  	width: 24px;
+  	position: relative;
+  	height: 24px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.logo1 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 4px;
+  	gap: 4px;
+}
+.contentChild {
+  	width: 2px;
+  	position: relative;
+  	border-right: 2px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 22px;
+}
+.content12 {
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 10px;
+}
+.product {
+  	border-radius: 10px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px 10px 10px;
+  	font-size: 14px;
+  	color: #fff;
+}
+.courses {
+  	position: relative;
+  	line-height: 20px;
+}
+.item11 {
+  	border-radius: 10px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px;
+}
+.products {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.product1 {
+  	border-radius: 10px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px;
+  	font-size: 14px;
+  	color: #fff;
+}
+.product3 {
+  	border-radius: 10px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 20px 10px 0px;
+}
+.buttonCircle8 {
+  	width: 36px;
+  	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.05), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 32px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 1px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 36px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px;
+}
+.social {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 10px;
+  	opacity: 0.6;
+}
+.followUs {
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 16px;
+  	font-size: 14px;
+  	color: #fff;
+}
+.menu12 {
+  	width: 720px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	max-width: 720px;
+  	font-size: 13px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.content11 {
+  	align-self: stretch;
+  	backdrop-filter: blur(60px);
+  	border-radius: 30px 30px 0px 0px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	padding: 96px;
+}
+.menuChild {
+  	width: 1px;
+  	position: relative;
+  	border-right: 1px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 18px;
+}
+.chevronDownIcon6 {
+  	width: 20px;
+  	position: relative;
+  	height: 20px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.menu13 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	gap: 16px;
+}
+.goBack {
+  	width: 44px;
+  	border-radius: 32px;
+  	background-color: rgba(0, 0, 0, 0.6);
+  	border: 1px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 44px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px;
+}
+.container {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 40px;
+}
+.bottom {
+  	align-self: stretch;
+  	border-top: 1px solid rgba(255, 255, 255, 0.1);
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+  	padding: 20px 96px;
+  	font-size: 13px;
+  	color: rgba(255, 255, 255, 0.7);
+}
+.footer {
+  	align-self: stretch;
+  	background-color: #000;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: center;
+  	z-index: 3;
+}
+.buttonToggle11 {
+  	border-radius: 99px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px 16px;
+}
+.menu14 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 10px;
+  	font-size: 14px;
+}
+.left {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 20px;
+}
+.buttonToggle15 {
+  	box-shadow: 0px 1px 3px rgba(199, 220, 255, 0.35) inset, 0px 0px 20px rgba(198, 204, 255, 0.2) inset, 0px 1px 22px rgba(255, 255, 255, 0.1), 0px 4px 4px rgba(0, 0, 0, 0.05), 0px 10px 10px rgba(0, 0, 0, 0.1);
+  	backdrop-filter: blur(20px);
+  	border-radius: 8px;
+  	background-color: rgba(255, 255, 255, 0.02);
+  	border: 1px solid rgba(255, 255, 255, 0.07);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 6px 16px;
+}
+.buttons1 {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 10px;
+  	font-size: 14px;
+}
+.container1 {
+  	width: 768px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	max-width: 1024px;
+}
+.navigationMenu {
+  	width: 1440px;
+  	margin: 0 !important;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	backdrop-filter: blur(20px);
+  	background-color: rgba(0, 0, 0, 0.1);
+  	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  	box-sizing: border-box;
+  	height: 60px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 6px;
+  	min-width: 640px;
+  	z-index: 4;
+}
+.gradient1 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 409.5px);
+  	background: linear-gradient(270deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.3) 50.55%, rgba(255, 255, 255, 0));
+  	width: 819px;
+  	height: 1px;
+  	overflow: hidden;
+}
+.lights1 {
+  	width: 819px;
+  	position: absolute;
+  	margin: 0 !important;
+  	bottom: 298px;
+  	left: calc(50% - 409px);
+  	background: radial-gradient(50% 50% at 50% 50%, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0));
+  	height: 138px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	opacity: 0.8;
+  	z-index: 5;
+}
+.framerCourse {
+  	position: relative;
+  	background-color: #000;
+  	width: 100%;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	text-align: left;
+  	font-size: 18px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
